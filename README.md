@@ -5,25 +5,25 @@ Effortless and fully automated TikTok account registration using **real mobile A
 
 ---
 
-## 🔐 Key Premium Features
+##  Key Premium Features
 
-- ✅ Real Mobile API (Android/iOS)
-- 📱 Device Registration (real device emulation)
-- 🚫 No Third-Party APIs – fully native requests
-- 🔄 Full Request Support (manual/automated modes)
-- 🌐 Proxy Support (IPv4/IPv6/SOCKS5)
-- 🧠 Captcha Solver Included (auto-pass)
-- 🆔 TikTok Headers Included: `X-Argus`, `X-Ladon`, `X-Gorgon`, `X-Khronos`
-- 🔒 Unique Fingerprint per Account
-- 🎯 High-Quality, Verified Accounts (low ban rate)
-- 📤 Auto Export (JSON / TXT)
+-  Real Mobile API (Android/iOS)
+-  Device Registration (real device emulation)
+-  No Third-Party APIs – fully native requests
+-  Full Request Support (manual/automated modes)
+-  Proxy Support (IPv4/IPv6/SOCKS5)
+-  Captcha Solver Included (auto-pass)
+- TikTok Headers Included: `X-Argus`, `X-Ladon`, `X-Gorgon`, `X-Khronos`
+-  Unique Fingerprint per Account
+-  High-Quality, Verified Accounts (low ban rate)
+-  Auto Export (JSON / TXT)
 
 ---
 
 ## 📣 Contact
 
 📬 Telegram: [@mariabosser](https://t.me/mariabosser)  
-🗓️ Last Update: 29/04/2025
+ Last Update
 
 ---
 
@@ -56,4 +56,4 @@ Effortless and fully automated TikTok account registration using **real mobile A
 - Экспорт данных аккаунтов
 
 📨 Telegram: [@mariabosser](https://t.me/mariabosser)  
-📅 Обновление: 29.04.2025
+ Обновление
