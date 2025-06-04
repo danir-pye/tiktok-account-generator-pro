@@ -1,5 +1,4 @@
-
-# 🚀 TikTok Account Creator Bot – Premium Edition
+#  TikTok Account Generator Pro – Ultimate Automation Tool 🚀
 
 Effortless and fully automated TikTok account registration using **real mobile APIs** and **device fingerprinting** – designed for professionals and marketers.
 
